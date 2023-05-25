@@ -3,6 +3,7 @@
 
 /* home */
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
 
 /* componentes */
 @import "./utilitarios/componentes.css";
@@ -11,4 +12,4 @@
 
 /* bicicletas */
 
-@import "./bicicletas/bicicletas-lista.css"
+@import "./bicicletas/bicicletas-lista.css";
