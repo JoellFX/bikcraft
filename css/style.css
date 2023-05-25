@@ -8,3 +8,7 @@
 @import "./utilitarios/componentes.css";
 @import "./utilitarios/fontes.css";
 @import "./utilitarios/cores.css";
+
+/* bicicletas */
+
+@import "./bicicletas/bicicletas-lista.css"
