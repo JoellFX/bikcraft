@@ -21,7 +21,7 @@
   border-left: 2px solid var(--cor-2);
 }
 
-.parceiros li:first-child, .parceiros:nth-child(5) {
+.parceiros li:first-child, .parceiros li:nth-child(5) {
   border-left: none;
 }
 
@@ -36,6 +36,9 @@
 @media (max-width: 800px) {
   .parceiros {
     padding-bottom: 60px;
+  }
+  .parceiros li {
+    padding: 20px;
   }
   .parceiros h2 {
     margin-bottom: 20px;
