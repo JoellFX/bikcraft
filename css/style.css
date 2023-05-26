@@ -13,5 +13,7 @@
 @import "./utilitarios/cores.css";
 
 /* bicicletas */
-
 @import "./bicicletas/bicicletas-lista.css";
+
+/* seguros */
+@import "./seguros/seguros.css"
