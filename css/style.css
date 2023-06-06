@@ -15,6 +15,7 @@
 @import "./utilitarios/fontes.css";
 @import "./utilitarios/cores.css";
 @import "./utilitarios/formulario.css";
+@import "./utilidades/animacao.css";
 
 /* bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
